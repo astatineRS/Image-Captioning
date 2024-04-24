@@ -28,9 +28,11 @@ Welcome to the FORESTY Image Captioning project! Enhance image accessibility wit
 
 **Contributing:**
 We welcome contributions from the community! Feel free to fork the repository, make improvements, and submit pull requests. Please adhere to our contribution guidelines.
+**Raunak Shukla
+Abhi Tailor**
 
 **Contact:**
-For inquiries, feedback, or collaborations, please contact [projectmaintainer@example.com](mailto:projectmaintainer@example.com).
+For inquiries, feedback, or collaborations, please contact [Team](raunak9554@gmail.com).
 
 **License:**
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
