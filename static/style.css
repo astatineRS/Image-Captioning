@@ -1,0 +1,160 @@
+body {
+    background-image: url("../static/back.png");
+    background-repeat: repeat-y;
+    background-size: 100%;
+    margin: 0;
+    height: 95vh;
+}
+
+#impimp{
+  background-color: #4a57ce;
+  color: #ffffff;
+}
+
+#impimp:hover {
+  background-color: rgb(121, 223, 244);
+  color: #000000;
+  transition: 150ms ease-in-out;
+}
+
+nav {
+  font-family: 'League Spartan';
+  display: flex;
+  margin: 10px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0f1422;
+  height: 60px;
+  padding: 0 20px;
+  border-radius: 10px;
+}
+
+.logo{
+  color: #fff;
+  font-size: 25px;
+  margin-left: 20px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+}
+
+.nav-links li {
+  margin-right: 20px;
+}
+
+#toptag{
+  color: #fff;
+  font-family: 'League Spartan';
+  font-size: 4vb;
+  text-align: center;
+  margin-top: 15%;
+}
+
+#toptag p{
+  font-size: 5vb;
+  color: #ff6881;
+  display: inline;
+  text-transform: uppercase;
+}
+
+#toptag p:hover{
+  color: #e84abe;
+  transition: 150ms ease-in-out 0ms;
+  display: inline;
+  text-transform: uppercase;
+}
+
+.nav-links a {
+  padding: 8px;
+  color: #000000;
+  border: 2px solid #000000;
+  background-color: #ffffff;
+  text-decoration: none;
+  font-size: 18px;
+  border-radius: 10px;
+}
+
+.nav-links a:hover {
+  background-color: #4a57ce;
+  color: #ffffff;
+  transition: 150ms ease-in-out;
+}
+
+
+
+
+#abouttag{
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+.main {
+  display: flex;
+  height: 85vh;
+  justify-content: center;
+  align-items: center;
+  margin-top: -15%;
+}
+.main p{
+  display: block;
+}
+  
+.upload input[type="file"] {
+  display: none;
+  /* margin: 0 auto 5%;
+  font-size: 18px; */
+}
+
+.upload {
+  display: flex;
+  justify-content: center;
+}
+
+#abcd{
+  padding: 10px;
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  display: block;
+  text-align: center;
+  color: #000000;
+  background-color: rgb(255, 255, 255);
+  margin: 10px;
+}
+#abcd:hover{
+  color: #ffffff;
+  background-color: #000000;
+  border: 2px solid #000000;
+  transition: 150ms ease-in-out 5ms;
+}
+
+#formtot{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.upload input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.upload input[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+  
+ 
